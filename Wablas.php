@@ -1,7 +1,7 @@
 <?php
 
 defined('BASEPATH') OR exit('No direct script access allowed'); 
-class Whatsapp extends MY_Controller 
+class Wablas extends MY_Controller 
 {
     public function __construct()
     {
